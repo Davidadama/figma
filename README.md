@@ -1,14 +1,8 @@
 
-# david_s_application1
-### Table of contents
-- [System requirements](#system-requirements)
-- [Figma design guidelines for better UI accuracy](#figma-design-guideline-for-better-accuracy)
-- [Check the UI of the entire app](#app-navigations)
-- [Application structure](#project-structure)
-- [How to format your code?](#how-you-can-do-code-formatting)
-- [How you can improve code readability?](#how-you-can-improve-the-readability-of-code)
-- [Libraries and tools used](#libraries-and-tools-used)
-- [Support](#support)
+# Figma to Flutter code
+## This is figma design conversion to a flutter code.
+
+## I was sent this design by a UI/UX expert to convert a a figma design to flutter code to be used as the front end for a cross-platform e-commerce mobile application.
 
 ### System requirements
 
@@ -77,3 +71,16 @@ Resolve the errors and warnings that are shown in the application.
 ### Support
 
 If you have any problems or questions, go to our Discord channel, where we will help you as quickly as possible: https://discord.com/invite/rFMnCG5MZ7
+
+### Screenshots
+<img src= "https://github.com/Davidadama/figma/assets/49925866/cdcaf4f7-24ea-4343-a5ab-b3a7b19f8b07"  height ='500' width='250'
+/>
+<img src= "https://github.com/Davidadama/figma/assets/49925866/d0443c50-3c03-4c5c-9772-e136cd36a6d8"  height ='500' width='250'
+/>
+<img src= "https://github.com/Davidadama/figma/assets/49925866/625b4816-0649-4d82-b386-60fb25ab8b14"  height ='500' width='250'
+/>
+<img src= "https://github.com/Davidadama/figma/assets/49925866/da3854cf-aa28-4403-a2c8-d2c46caf5ddd"
+  height ='500' width='250'
+/>
+
+
